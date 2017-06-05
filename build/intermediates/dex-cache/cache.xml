@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_894b0015ecaa1138280cee6bd8eabe095ecb9f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_b010e5cac65c5308c39a1321b37f51d5a5c6a755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_0c4a04e948c193953a33d14aecab15784de2ff77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_a5363a3c7aed4bb33a18a0d2d265eebfd2a784f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_eab71ae3711060774e7d38550f3e47cbc6592d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_adbb9215b028c6e5da80b3fa6d5b650e6a3df3e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_c358d1e275a2ac82f5a37ce4995963f0ac8b527b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxandroid\0.24.0\42dab493b8f74b164e082f281480c9d493ff89da\rxandroid-0.24.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42dab493b8f74b164e082f281480c9d493ff89da">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-0.24.0_91f6d8140bd7cb6ac5d0e49bf7a5e25b3455b339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.0\42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8\rxjava-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.0_2ff5f1f5f3b83c1c32923be8c7500bd6a94c1ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_92edf177038391e04114ea336c2cf74aeabd584c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_bb070ecd594e76aa57ea1858338cf7a85d2bf999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_8cac11c53a18f3f8fad95bfa2a05455f254fbb04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.github.florent37\viewanimator\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63a8fde397bbe55178688290a36a9451dade6d14">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.florent37-viewanimator-1.0.5_ca04e3976fbd7e6d46bccfbcbe5ce88a265cefcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.1\73ce0d997524a7fd3b06cfc7adbb9e9ef4854754\dagger-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73ce0d997524a7fd3b06cfc7adbb9e9ef4854754">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.1_1eb58d90525d52b2cdf951178eca0eb9b26c84d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_5719358d3abc68dc2b149430fb8c85e6af6f4198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d4ff6e7f8f58de90566f0560839a9b42c59beda7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_d346a200192c48086b2b8b38211db01e01b5d2e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_2f534089ef8d6e3937dfc3b7e27c5852791661e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_2fedc24091b6ab2d24c1ceb84c92b0d50c7b54ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.2.0\d80514b6f44f0c4c6234e2d67fea783a25e77275\adapter-rxjava-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.2.0_8866531d39c97b4bbc880de99a45f6985ad4b8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_7069118e376754079e9186fa74d6780136e06f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_7e67e7ebf48e84d21e236c78e490de1a9bc31db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_1b2089a1ad911b36f0cf2b422da51d02a5cebc8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94c0e366dafcd8eef96ad3ef99a38614e16293d9">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f2b6019caf62b5a6e933cf4bf69e6747a136fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2c7a696aa4bff0ee3833fbb9115b32c8e102615">
+        <dex dex="C:\Users\PIL\Desktop\Ulike\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_714b03b595af6c5a2fd89f0de66d95ef4cd5e27a\classes.dex" />
+    </item>
+
+</items>

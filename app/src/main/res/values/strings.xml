@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UlikeDemo</string>
+    <string name="single_button_text">PRESS ME</string>
+    <string name="second_button_text">Go To List</string>
+</resources>
